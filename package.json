@@ -1,14 +1,17 @@
 {
   "name": "kk-test",
-  "theme": "ui",
-  "version": "2.20.2",
+  "theme": "syntax",
+  "version": "0.0.0",
   "description": "test test",
   "keywords": [
-    "k1","k2"
+    "syntax",
+    "theme",
+    "k1",
+    "k2"
   ],
-  "license": "MIT",
   "repository": "https://github.com/Kirin9801/atom-test-theme",
+  "license": "MIT",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
