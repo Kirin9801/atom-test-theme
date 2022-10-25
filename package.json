@@ -1,0 +1,13 @@
+{
+  "name": "kk-test",
+  "theme": "ui",
+  "version": "2.20.2",
+  "description": "test test",
+  "keywords": [
+    "k1","k2"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
